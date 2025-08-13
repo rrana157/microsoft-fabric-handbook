@@ -75,6 +75,9 @@ Some must-join communities for Fabric users:
 **LinkedIn**:
 - [Marco Russo](https://www.linkedin.com/in/sqlbi)
 - [Alberto Ferrari](https://www.linkedin.com/in/sqlbi)
+- [Adam Saxton](https://www.linkedin.com/in/guyinacube/)
+- [Patrick LeBlanc](https://www.linkedin.com/in/patrickdleblanc/)
+- [Adam Marczak](https://www.linkedin.com/in/adam-marczak-96088929/)
 
 ---
 
