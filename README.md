@@ -66,9 +66,13 @@ Some must-join communities for Fabric users:
 ### Influencers & Creators
 
 **YouTube**:
+- [Microsoft Fabric(Official)](https://www.youtube.com/@MicrosoftFabric)
 - [Guy in a Cube](https://www.youtube.com/@GuyInACube)
 - [Adam Marczak](https://www.youtube.com/@AdamMarczakYT)
 - [SQLBI](https://www.youtube.com/@SQLBI)
+- [Wafa Studies](https://www.youtube.com/@WafaStudies)
+- [Learn Microsoft Fabric with Will](https://www.youtube.com/@LearnMicrosoftFabric)
+- [Aleksi Partanen - Master Microsoft Fabric](https://www.youtube.com/@AleksiPartanenTech)
 
 **LinkedIn**:
 - [Marco Russo](https://www.linkedin.com/in/sqlbi)
