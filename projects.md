@@ -1,45 +1,39 @@
-# Microsoft Fabric – Projects & Use Cases
+# Microsoft Fabric Projects
 
-A collection of **hands-on projects** to strengthen your Microsoft Fabric skills and apply them in real-world scenarios.
+This section showcases **hands-on projects** and **real-world use cases** built with **Microsoft Fabric**.
 
 ---
 
-## Beginner-Friendly Projects
-1. **Sales Analytics Dashboard**
-   - **Goal:** Build a Fabric Lakehouse, load sales data, and create a Power BI dashboard.
-   - **Skills Covered:** Data ingestion, model creation, DAX basics.
-   - **Resources:** [Sample Data](https://github.com/microsoft/fabric-samples)
+## Beginner Projects
+1. **Sales Performance Dashboard in Fabric + Power BI**  
+   - **Goal**: Connect Lakehouse data to Power BI, create a sales dashboard.  
+   - **Skills**: Dataflows, Power Query, DAX.  
+   - **Link**: [GitHub Repo](https://github.com/example/fabric-sales-dashboard)
 
-2. **Customer Segmentation**
-   - **Goal:** Use Fabric Dataflows to preprocess customer data and apply clustering analysis.
-   - **Skills Covered:** Data wrangling, basic ML, segmentation visualization.
+2. **Fabric Dataflows – ETL for E-commerce Dataset**  
+   - **Goal**: Create a data pipeline using Dataflows Gen2.  
+   - **Skills**: Data ingestion, transformation, data mapping.
 
 ---
 
 ## Intermediate Projects
-3. **IoT Real-Time Monitoring**
-   - **Goal:** Ingest live sensor data into Kusto (Real-Time Analytics) and visualize trends.
-   - **Skills Covered:** Event ingestion, real-time dashboards, anomaly detection.
+1. **Real-Time Analytics on IoT Data with Fabric**  
+   - **Goal**: Stream IoT sensor data into Real-Time Analytics for live dashboards.  
+   - **Skills**: KQL queries, Power BI streaming datasets.  
+   - **Link**: [Project Details](https://github.com/example/fabric-iot-analytics)
 
-4. **Marketing Campaign Effectiveness**
-   - **Goal:** Combine structured and unstructured data in OneLake to evaluate campaign ROI.
-   - **Skills Covered:** Data warehouse integration, advanced DAX, text analytics.
+2. **Customer Segmentation in Fabric Lakehouse**  
+   - **Goal**: Use Fabric notebooks for data wrangling and clustering.  
+   - **Skills**: PySpark, Lakehouse tables, ML models.
 
 ---
 
 ## Advanced Projects
-5. **Enterprise Data Lakehouse**
-   - **Goal:** Architect and implement a scalable Fabric Lakehouse integrating multiple domains.
-   - **Skills Covered:** Governance, incremental refresh, large dataset optimization.
-
-6. **Hybrid Data Estate Analytics**
-   - **Goal:** Integrate Fabric with external data sources (Databricks, Snowflake) for cross-platform reporting.
-   - **Skills Covered:** DirectQuery, cross-cloud integration, performance tuning.
+1. **End-to-End Fabric Data Platform for Retail**  
+   - **Goal**: Integrate multiple data sources, create a unified data model, and deploy enterprise reports.  
+   - **Skills**: Data engineering pipelines, semantic models, Fabric governance.  
+   - **Link**: [Case Study](https://github.com/example/fabric-retail-platform)
 
 ---
 
-💡 **Pro Tip:** Document each project with:
-- **Architecture Diagram**
-- **ETL/ELT Pipeline Details**
-- **Challenges & Solutions**
-- **Performance Benchmarks**
+💡 **Tip**: Clone any of these projects, then adapt them to your datasets for practical learning.
