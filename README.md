@@ -12,10 +12,8 @@ If you’re here for the **free Fabric learning resources**, check out:
 
 For more applied learning:
 - Explore the [projects](projects.md) section for hands-on examples of Fabric solutions.
-- Visit the [interviews](interviews.md) section for Fabric-related interview prep tips.
 - Browse the [books](books.md) section for top reads on data analytics and engineering with Fabric.
-- Join relevant [communities](communities.md) to connect with other Fabric professionals.
-- Subscribe to a [newsletter](newsletters.md) to get Fabric updates and insights delivered to your inbox.
+- Subscribe the [Blogs](blogs.md) to get Fabric updates and insights.
 
 ---
 
