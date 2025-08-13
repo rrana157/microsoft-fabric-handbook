@@ -45,8 +45,6 @@ Some must-join communities for Fabric users:
 - **Microsoft** – [Microsoft Fabric](https://fabric.microsoft.com)
 - **Databricks** – [Databricks Lakehouse](https://www.databricks.com/)
 - **Snowflake** – [Snowflake](https://www.snowflake.com/)
-- **Power BI** – [Power BI Service](https://powerbi.microsoft.com/)
-- **Azure Synapse** – [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/)
 
 ---
 
