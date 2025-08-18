@@ -33,8 +33,6 @@ Top recommended books for mastering Microsoft Fabric and modern analytics:
 Some must-join communities for Fabric users:
 - [Microsoft Fabric Community](https://community.fabric.microsoft.com/)
 - [Power BI Community](https://community.powerbi.com/)
-- [Guy in a Cube YouTube Community](https://www.youtube.com/@GuyInACube)
-- [Data Platform Community Events](https://dataplatform.microsoft.com/)
 
 ---
 
