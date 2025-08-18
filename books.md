@@ -5,10 +5,10 @@ This section collects **must-read books** for anyone working with **Microsoft Fa
 ---
 
 ## Microsoft Fabric & Power BI
+- [Fundamentals of Microsoft Fabric](https://www.oreilly.com/library/view/fundamentals-of-microsoft/9781098172916/) - This book serves as a definitive roadmap to understanding Microsoft Fabric—and leveraging it to suit your needs. Authors Nikola Ilic and Ben Weissman demystify the core concepts and components necessary to build, manage, and administer robust data solutions within this game-changing product
+- [Learn Microsoft Fabric](https://www.oreilly.com/library/view/learn-microsoft-fabric/9781835082287/) Discover the capabilities of Microsoft Fabric, the premier unified solution designed for the AI era, seamlessly combining data integration, OneLake, transformation, visualization, universal security, and a unified business model. This book provides an overview of Microsoft Fabric, its components, and the wider analytics landscape.
 - [The Definitive Guide to DAX](https://www.sqlbi.com/books/the-definitive-guide-to-dax/) – By Marco Russo & Alberto Ferrari. The go-to reference for mastering DAX, a key skill in Fabric analytics.
 - [Data Modeling with Microsoft Power BI](https://www.amazon.com/Data-Modeling-Microsoft-Power-BI/dp/1801813101/) – Comprehensive guide to building efficient models for Fabric & Power BI.
-- [Pro Power BI Desktop](https://www.apress.com/gp/book/9781484260334) – Hands-on book covering report building, data shaping, and performance tips.
-
 ---
 
 ## Data Engineering & Analytics Fundamentals
