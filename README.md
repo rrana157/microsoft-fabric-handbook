@@ -52,7 +52,7 @@ Some must-join communities for Fabric users:
 
 ---
 
-### Influencers & Creators
+### Influencers & Creators (Microsoft Fabric & Power BI)
 
 **YouTube**:
 - [Microsoft Fabric(Official)](https://www.youtube.com/@MicrosoftFabric)
