@@ -52,13 +52,6 @@ Some must-join communities for Fabric users:
 
 ---
 
-### Whitepapers
-
-- [Microsoft Fabric Overview Whitepaper](https://aka.ms/FabricWhitepaper)
-- [The Data Lakehouse: Data Warehousing and More](https://arxiv.org/abs/2310.08697)
-
----
-
 ### Influencers & Creators
 
 **YouTube**:
