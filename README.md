@@ -24,7 +24,7 @@ For more applied learning:
 Top recommended books for mastering Microsoft Fabric and modern analytics:
 - [Fundamentals of Microsoft Fabric](https://www.oreilly.com/library/view/fundamentals-of-microsoft/9781098172916/) - This book serves as a definitive roadmap to understanding Microsoft Fabric—and leveraging it to suit your needs. Authors Nikola Ilic and Ben Weissman demystify the core concepts and components necessary to build, manage, and administer robust data solutions within this game-changing product
 - [Learn Microsoft Fabric](https://www.oreilly.com/library/view/learn-microsoft-fabric/9781835082287/) Discover the capabilities of Microsoft Fabric, the premier unified solution designed for the AI era, seamlessly combining data integration, OneLake, transformation, visualization, universal security, and a unified business model. This book provides an overview of Microsoft Fabric, its components, and the wider analytics landscape.
-- [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/10981
+- [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/10981)
 
 ---
 
