@@ -79,6 +79,9 @@ Some must-join communities for Fabric users:
 - [Patrick LeBlanc](https://www.linkedin.com/in/patrickdleblanc/)
 - [Adam Marczak](https://www.linkedin.com/in/adam-marczak-96088929/)
 
+**LinkedIn Groups**:
+- [Microsoft Fabric Influencers](https://www.linkedin.com/groups/14653069/)
+
 ---
 
 ### Newsletters
