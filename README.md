@@ -105,13 +105,6 @@ Some must-join communities for Fabric users:
 
 ---
 
-### Design Patterns
-
-- [Lakehouse & Warehouse integration patterns](patterns/lakehouse-warehouse.md)
-- [Power BI and OneLake best practices](patterns/powerbi-onelake.md)
-
----
-
 **Contributions welcome!**  
 If you have resources, examples, or learning paths related to Microsoft Fabric, feel free to open a PR.
 
