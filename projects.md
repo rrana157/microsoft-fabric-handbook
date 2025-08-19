@@ -14,8 +14,7 @@ This section showcases **hands-on projects** and **real-world use cases** built 
 | 4    | Survey / eNPS Dashboard in Power BI | Hindi  | [BI Learner](https://www.youtube.com/@bilearner) | Employee survey and Net Promoter Score analysis dashboard to measure engagement and feedback trends. | HR / Engagement  | Power BI, DAX, Excel           | Intermediate | [Watch Here](https://youtu.be/sN11I5PQVwM) |
 
 ---
-# Projects Repository
-## Data Engineering Project
+## Data Engineering Projects
 
 ---
 
