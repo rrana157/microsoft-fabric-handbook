@@ -63,6 +63,7 @@ Some must-join communities for Fabric users:
 
 **YouTube**:
 - [Microsoft Fabric(Official)](https://www.youtube.com/@MicrosoftFabric)
+- [Microsoft PowerBI(Official)](https://www.youtube.com/@MicrosoftPowerBI)
 - [Guy in a Cube](https://www.youtube.com/@GuyInACube)
 - [Adam Marczak](https://www.youtube.com/@AdamMarczakYT)
 - [SQLBI](https://www.youtube.com/@SQLBI)
