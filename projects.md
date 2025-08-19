@@ -7,9 +7,9 @@ This section showcases **hands-on projects** and **real-world use cases** built 
 ## Power BI Projects
 # Projects Repository
 
-| S.No | Project Name                  | Description  | Industry Type  | Technologies Used  | Level        | Video Link |
-|------|-------------------------------|--------------|----------------|--------------------|--------------|
-| 1    | HR Dashboard in Power BI |              | HR Dashboard   | Power BI, Excel    | Intermediate | [...](https://youtu.be/30mPtIjYZ8I)|
+| S.No | Project Name            | Description | Industry Type | Technologies Used | Level        | Video Link | Language |
+|------|--------------------------|-------------|---------------|-------------------|--------------|------------|----------|
+| 1    | HR Dashboard in Power BI |             | HR Dashboard  | Power BI, Excel   | Intermediate | [Watch Here](https://youtu.be/30mPtIjYZ8I) | English |
 
 ---
 
