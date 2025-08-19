@@ -28,7 +28,7 @@ Top recommended books for mastering Microsoft Fabric and modern analytics:
 
 ### Projects
 
-Top recommended books for mastering Microsoft Fabric and modern analytics:
+Top recommended projects for mastering Microsoft Fabric and modern analytics:
 - [Fundamentals of Microsoft Fabric](https://www.oreilly.com/library/view/fundamentals-of-microsoft/9781098172916/)
 - [Learn Microsoft Fabric](https://www.oreilly.com/library/view/learn-microsoft-fabric/9781835082287/)
 - [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/10981)
