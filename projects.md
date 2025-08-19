@@ -4,15 +4,12 @@ This section showcases **hands-on projects** and **real-world use cases** built 
 
 ---
 
-## Beginner Projects
-1. **Sales Performance Dashboard in Fabric + Power BI**  
-   - **Goal**: Connect Lakehouse data to Power BI, create a sales dashboard.  
-   - **Skills**: Dataflows, Power Query, DAX.  
-   - **Link**: [GitHub Repo](https://github.com/example/fabric-sales-dashboard)
+## Power BI Projects
+# Projects Repository
 
-2. **Fabric Dataflows – ETL for E-commerce Dataset**  
-   - **Goal**: Create a data pipeline using Dataflows Gen2.  
-   - **Skills**: Data ingestion, transformation, data mapping.
+| S.No | Project Name                  | Description  | Industry Type  | Technologies Used  | Level        | Video Link |
+|------|-------------------------------|--------------|----------------|--------------------|--------------|
+| 1    | HR Dashboard in Power BI |              | HR Dashboard   | Power BI, Excel    | Intermediate | [...](https://youtu.be/30mPtIjYZ8I)|
 
 ---
 
