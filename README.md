@@ -81,6 +81,9 @@ Some must-join communities for Fabric users:
 - [Adam Marczak](https://www.linkedin.com/in/adam-marczak-96088929/)
 
 **LinkedIn Groups**:
+- [Power BI(Official)](https://www.linkedin.com/groups/7044693/)
+- [Microsoft Fabric(Offical)](https://www.linkedin.com/showcase/microsoftfabric/)
+- [Microsoft Fabric - UK](https://www.linkedin.com/groups/8909321/)
 - [Microsoft Fabric Influencers](https://www.linkedin.com/groups/14653069/)
 
 ---
